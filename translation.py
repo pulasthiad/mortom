@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """   Hello😊✋,
 ⭕️ <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">This is ᗰ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
-⭕️ Let's get started..!✅ You can upload files📁 promptly to Telegram through me😎.
+⭕️ Let's get started..!✅ You can upload files📁 promptly to Telegram through me😊.
 
 <b>Please send me any direct download Link🔗, I will upload it to telegram as File/Video</b>
 
