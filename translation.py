@@ -1,13 +1,13 @@
 class Translation(object):
-    START_TEXT = """   Hello 😍✋,
-⭕️ <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">This is M Url Uploder v01🤖!</a>
-⭕️ Let's get started..!✅ You can upload files   📁 promptly to Telegram through me😎.
+    START_TEXT = """   Hello😊✋,
+⭕️ <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">This is ᗰ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
+⭕️ Let's get started..!✅ You can upload files📁 promptly to Telegram through me😎.
 
 <b>Please send me any direct download Link🔗, I will upload it to telegram as File/Video</b>
 
 /help for more details..
 
-⭕️ Support: <a href="https://t.me/m_ortom">Mortom</a>
+⭕️ Support: <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
 
 ⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/twentyadvance20">ᴜɴᴋɴᴏᴡɴ ᴄᴏᴅᴇʀ™</a> | <a href="https://t.me/un_coder">ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴏᴜɴᴛs™</a>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -48,7 +48,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    File  - Give File without Screenshots
    
-If you experiencing bugs or issues please contact my <a href="https://t.me/m_ortom">Mortom</a>
+If you experiencing bugs or issues please contact my <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
 
 --------
 Send /me to know current plan details"""
