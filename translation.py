@@ -1,15 +1,15 @@
 class Translation(object):
-    START_TEXT = """   Hello😊✋,
-⭕️ <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">This is ᗰ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
-⭕️ Let's get started..!✅ You can upload files📁 promptly to Telegram through me😊.
+    START_TEXT = """   ʜᴇʟʟᴏ😊✋,
+🔅 <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">ᴛʜɪs ɪs ᗰ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
+🔅 ʟᴇᴛ's ɢᴇᴛ sᴛᴀʀᴛᴇᴅ..🎚️ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ғɪʟᴇs..📁 ᴘʀᴏᴍᴘᴛʟʏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴛʜʀᴏᴜɢʜ ᴍᴇ..😊
 
-<b>Please send me any direct download Link🔗, I will upload it to telegram as File/Video</b>
+<b>ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ..🔗, ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀs ғɪʟᴇ/ᴠɪᴅᴇᴏ</b>
 
-/help for more details..
+/help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs..
 
-⭕️ Support: <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
+🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
 
-⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/twentyadvance20">ᴜɴᴋɴᴏᴡɴ ᴄᴏᴅᴇʀ™</a> | <a href="https://t.me/un_coder">ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴏᴜɴᴛs™</a>"""
+🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">ᴜɴᴋɴᴏᴡɴ ᴄᴏᴅᴇʀ™</a> | <a href="https://t.me/un_coder">ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴏᴜɴᴛs™</a>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
