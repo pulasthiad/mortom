@@ -10,7 +10,7 @@ class Translation(object):
 
 🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
 
-🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">    𝗚𝗔𝗠𝗘 𝗛𝗨𝗕™〽️</a> """
+🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">    ɢᴀᴍᴇ ʜᴜʙ</a> """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
