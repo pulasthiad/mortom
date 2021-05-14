@@ -12,7 +12,7 @@ class Translation(object):
 
 🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/M_ortom">𝗠𝗢𝗥𝗧𝗢𝗠 🇱🇰</a>
 
-🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">     ɢᴀᴍᴇ ʜᴜʙ</a> """
+🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">      ɢᴀᴍᴇ ʜᴜʙ</a> """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -40,7 +40,7 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: Free User
-Expires on: Unlimited. ✨️Note: I'm running on a free server so there maybe some issues like not responing, limited speed. So please enjoy the service patiently. """
+Expires on: 2021/12/30 """
     HELP_USER = """ʜᴇʟʟᴏ ɪ'ᴍ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
     
 1. Send url (URL🔗|New Name with Extension).
