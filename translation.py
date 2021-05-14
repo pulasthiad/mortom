@@ -3,14 +3,14 @@ class Translation(object):
 🔅 <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">ᴛʜɪs ɪs ᗰ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
 🔅 ʟᴇᴛ's ɢᴇᴛ sᴛᴀʀᴛᴇᴅ..🎚️ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ғɪʟᴇs..📁 ᴘʀᴏᴍᴘᴛʟʏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴛʜʀᴏᴜɢʜ ᴍᴇ..😊
 
-<b>ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ..🔗,
-ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀs ғɪʟᴇ/ᴠɪᴅᴇᴏ</b>
+<b>ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ..🔗, ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀs ғɪʟᴇ/ᴠɪᴅᴇᴏ 
+ɴᴏᴛᴇ: ɪ'ᴍ ʀᴜɴɴɪɴɢ ᴏɴ ᴀ ғʀᴇᴇ sᴇʀᴠᴇʀ sᴏ ᴛʜᴇʀᴇ ᴍᴀʏʙᴇ sᴏᴍᴇ ɪssᴜᴇs ʟɪᴋᴇ ɴᴏᴛ ʀᴇsᴘᴏɴɪɴɢ, ʟɪᴍɪᴛᴇᴅ sᴘᴇᴇᴅ. sᴏ ᴘʟᴇᴀsᴇ ᴇɴᴊᴏʏ ᴛʜᴇ sᴇʀᴠɪᴄᴇ ᴘᴀᴛɪᴇɴᴛʟʏ.</b>
 
 /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs..
 
-🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
+🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/M_ortom">𝗠𝗢𝗥𝗧𝗢𝗠 🇱🇰</a>
 
-🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">    ɢᴀᴍᴇ ʜᴜʙ</a> """
+🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">     ɢᴀᴍᴇ ʜᴜʙ</a> """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -38,16 +38,16 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: Free User
-Expires on: 31/12/2020"""
-    HELP_USER = """Hello i am URL Uploader bot..
+Expires on: Unlimited. ✨️Note: I'm running on a free server so there maybe some issues like not responing, limited speed. So please enjoy the service patiently. """
+    HELP_USER = """ʜᴇʟʟᴏ ɪ'ᴍ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
     
 1. Send url (URL🔗|New Name with Extension).
 2. Send Custom Thumbnail 🖼 (Optional).
 3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   File  - Give File without Screenshots
+   ᴠɪᴅᴇᴏ ᴡɪᴛʜ ss - Give File as video with Screenshots
+   ғɪʟᴇ ᴡɪᴛʜ ss - Give File with Screenshots
+   ᴏɴʟʏ ᴠɪᴅᴇᴏ - Give File as video without Screenshots
+   ᴏɴʟʏ ғɪʟᴇ - Give File without Screenshots
    
 If you experiencing bugs or issues please contact my <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
 
