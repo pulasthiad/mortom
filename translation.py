@@ -10,7 +10,7 @@ class Translation(object):
 
 /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs..
 
-🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/M_ortom">ᗰᴏʀτᴏᴍ[Pulasthi]</a> """
+🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/M_ortom">ᗰᴏʀτᴏᴍ(ᴘᴜʟᴀsᴛʜɪ)</a> """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
