@@ -10,9 +10,7 @@ class Translation(object):
 
 /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs..
 
-🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/M_ortom">𝗠𝗢𝗥𝗧𝗢𝗠 🇱🇰</a>
-
-🔅 ғᴏʟʟᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs.  \n<a href="https://t.me/twentyadvance20">      ɢᴀᴍᴇ ʜᴜʙ</a> """
+🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/M_ortom">𝗠𝗢𝗥𝗧𝗢𝗠 🇱🇰</a> """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -46,10 +44,10 @@ Expires on: 2021/12/30 """
 1. Send url (URL🔗|New Name with Extension).
 2. Send Custom Thumbnail 🖼 (Optional).
 3. Select the button.
-   ᴠɪᴅᴇᴏ ᴡɪᴛʜ ss - Give File as video with Screenshots
-   ғɪʟᴇ ᴡɪᴛʜ ss - Give File with Screenshots
-   ᴏɴʟʏ ᴠɪᴅᴇᴏ - Give File as video without Screenshots
-   ᴏɴʟʏ ғɪʟᴇ - Give File without Screenshots
+   S Video - Give File as video with Screenshots
+   S File - Give File with Screenshots
+   D Video - Give File as video without Screenshots
+   D File - Give File without Screenshots
    
 If you experiencing bugs or issues please contact my <a href="https://t.me/m_ortom">ᗰᴏʀτᴏᴍ</a>
 
